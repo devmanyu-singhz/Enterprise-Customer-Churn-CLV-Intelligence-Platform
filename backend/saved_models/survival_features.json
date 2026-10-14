@@ -1,0 +1,14 @@
+[
+  "MonthlyCharges",
+  "SupportTickets",
+  "Contract_One year",
+  "Contract_Two year",
+  "InternetService_Fiber optic",
+  "InternetService_No",
+  "TechSupport_No internet service",
+  "TechSupport_Yes",
+  "PaymentMethod_Credit card (automatic)",
+  "PaymentMethod_Electronic check",
+  "PaymentMethod_Mailed check",
+  "PaperlessBilling_Yes"
+]

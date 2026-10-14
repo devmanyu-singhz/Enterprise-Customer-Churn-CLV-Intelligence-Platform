@@ -1,0 +1,110 @@
+{
+  "base_probability": 0.3229,
+  "top_features": [
+    {
+      "feature": "Tenure (Months)",
+      "raw_feature": "tenure",
+      "importance": 0.8159000277519226,
+      "mean_impact": -0.1527000069618225,
+      "direction": "Retention Anchor"
+    },
+    {
+      "feature": "Month-to-Month Contract",
+      "raw_feature": "Contract_Month-to-month",
+      "importance": 0.517300009727478,
+      "mean_impact": -0.016499999910593033,
+      "direction": "Retention Anchor"
+    },
+    {
+      "feature": "Monthly Charges",
+      "raw_feature": "MonthlyCharges",
+      "importance": 0.4429999887943268,
+      "mean_impact": -0.09070000052452087,
+      "direction": "Retention Anchor"
+    },
+    {
+      "feature": "Support Tickets",
+      "raw_feature": "SupportTickets",
+      "importance": 0.2872999906539917,
+      "mean_impact": 0.0034000000450760126,
+      "direction": "Risk Driver"
+    },
+    {
+      "feature": "Electronic Check Payment",
+      "raw_feature": "PaymentMethod_Electronic check",
+      "importance": 0.26030001044273376,
+      "mean_impact": -0.029600000008940697,
+      "direction": "Retention Anchor"
+    },
+    {
+      "feature": "No Tech Support",
+      "raw_feature": "TechSupport_No",
+      "importance": 0.22010000050067902,
+      "mean_impact": -0.04809999838471413,
+      "direction": "Retention Anchor"
+    },
+    {
+      "feature": "Total Charges",
+      "raw_feature": "TotalCharges",
+      "importance": 0.17339999973773956,
+      "mean_impact": -0.012799999676644802,
+      "direction": "Retention Anchor"
+    },
+    {
+      "feature": "No Online Security",
+      "raw_feature": "OnlineSecurity_No",
+      "importance": 0.13580000400543213,
+      "mean_impact": -0.02449999935925007,
+      "direction": "Retention Anchor"
+    },
+    {
+      "feature": "Dependents_No",
+      "raw_feature": "Dependents_No",
+      "importance": 0.09529999643564224,
+      "mean_impact": -0.009399999864399433,
+      "direction": "Retention Anchor"
+    },
+    {
+      "feature": "OnlineBackup_No",
+      "raw_feature": "OnlineBackup_No",
+      "importance": 0.09109999984502792,
+      "mean_impact": -0.010999999940395355,
+      "direction": "Retention Anchor"
+    },
+    {
+      "feature": "Partner_No",
+      "raw_feature": "Partner_No",
+      "importance": 0.08829999715089798,
+      "mean_impact": -0.010099999606609344,
+      "direction": "Retention Anchor"
+    },
+    {
+      "feature": "PaymentMethod_Mailed check",
+      "raw_feature": "PaymentMethod_Mailed check",
+      "importance": 0.08540000021457672,
+      "mean_impact": -0.004999999888241291,
+      "direction": "Retention Anchor"
+    },
+    {
+      "feature": "Two-Year Contract",
+      "raw_feature": "Contract_Two year",
+      "importance": 0.06769999861717224,
+      "mean_impact": -0.00839999970048666,
+      "direction": "Retention Anchor"
+    },
+    {
+      "feature": "Fiber Optic Internet",
+      "raw_feature": "InternetService_Fiber optic",
+      "importance": 0.05950000137090683,
+      "mean_impact": -0.005200000014156103,
+      "direction": "Retention Anchor"
+    },
+    {
+      "feature": "gender_Female",
+      "raw_feature": "gender_Female",
+      "importance": 0.05909999832510948,
+      "mean_impact": -0.0008999999845400453,
+      "direction": "Retention Anchor"
+    }
+  ]
+}
